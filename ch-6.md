@@ -1,4 +1,4 @@
-# The Answer and a Bigger Den
+# Chapter 6 - The Answer and a Bigger Den
 
 Shouts of 'Yes!' could be heard through the camp.
 

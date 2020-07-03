@@ -1,4 +1,4 @@
-# First Night and the Horses
+# Chapter 4 - First Night and the Horses
 
 As many say, the first night camping is the hardest. No-one got to sleep that night. When they were at the house they could ignore the trickle of the stream. Now, no-one could. The camp was silent for a while, but then Rose said something.
 

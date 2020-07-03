@@ -1,4 +1,4 @@
-# The Map
+# Chapter 9 - The Map
 
 "Everyone - what are we going to do? We can't just let them find the treasure," said Johny.
 

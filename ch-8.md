@@ -1,4 +1,4 @@
-# Journey Upriver
+# Chapter 8 - Journey Upriver
 
 The children woke up to a glorious day. Every one of them had forgotten about what happened last night, and soon everyone was splashing in the pool the dam had created. Actually, Max wasn't in the pool, because it was his turn to make breakfast. After Max shouted to the others that they were ready to eat though, everyone promptly got changed and dry, almost as if they were never playing in the water. Despite breakfast being small, everyone felt full up and could not eat any more. Then they started to pack for the expedition upriver.
 

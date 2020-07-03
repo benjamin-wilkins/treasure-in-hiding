@@ -1,4 +1,4 @@
-# Adventure Awaits
+# Chapter 1 - Adventure Awaits
 
 "Happy Birthday to you!"
 

@@ -1,4 +1,4 @@
-# Messages and Marshmallow
+# Chapter 5 - Messages and Marshmallow
 
 "Oh, you're so lucky," said Jessica at lunch. "I wish we could come to camp with you."
 

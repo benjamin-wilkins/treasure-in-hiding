@@ -1,4 +1,4 @@
-# To the Land
+# Chapter 2 - To the Land
 
 Going to the land was a hard thing - not only was there the fact that there were many things to trip over and hurt yourself on, but also, as the land was covered in trees, there was no map that could show where you could go and so it was easy to get lost. However, by following the stream that led from the house, they managed to not get lose their way.
 

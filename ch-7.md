@@ -1,4 +1,4 @@
-# The Braying Horses
+# Chapter 7 - The Braying Horses
 
 Dinner was a grand affair that night - it was more like a banquet than anything else. However, the children deserved it, having carried heavy loads and been building their den all day. They ate sausages, eggs and bacon by the dozen and only stopped when Sam reminded them that they shouldn't be going back home for food just the day after they had been given heaps of it. Once they had cleaned up, which was rather easy because as soon as something was done cooking it was eaten without being put on plates first, Jessie decided to organize the place. She even managed to find a tin of coffee beans which no-one had put in their bags but was in the den anyway, and promtly put it by the lookout.
 
