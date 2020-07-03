@@ -12,7 +12,7 @@ Sam and Elsie were Johny and Roses' younger brother and sister.
 
 "If you'll stop being so impatient."
 
-Inside was an empty notebook labled 'EXPEDITION LOG', a pair of binoculars, a long length of rope and a couple of heavy duty tarpaulins. No-none spoke for a moment. Elsie, age 6, was the first to break the silence.
+Inside was an empty notebook labled '`EXPEDITION LOG`', a pair of binoculars, a long length of rope and a couple of heavy duty tarpaulins. No-none spoke for a moment. Elsie, age 6, was the first to break the silence.
 
 "But what do we do with it?" she asked, clearly puzzled.
 
