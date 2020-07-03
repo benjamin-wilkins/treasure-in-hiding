@@ -8,7 +8,7 @@ Everyone volunteered.
 
 "Well, we could all be on watch," said Johny.
 
-So, everyone was on watch that night. Elsie soon fell asleep.
+So, everyone was awake, watching for the first part of the night. Elsie soon fell asleep.
 
 "I wish I could fall asleep like that," said Johny.
 
@@ -48,7 +48,7 @@ Soon the horses went away to the other side of the field.
 
 "Look! There's someone there!"
 
-And there was. In fact, there were 2 people. They came up and said hello. It turned out that they were called Max and Jessica, and that they lived in the house next door.
+And there was. In fact, there were 2 people. They came up and said hello. It turned out that they were called Max and Jessie, and that they lived in the house next door.
 
 Rose had an idea.
 
@@ -56,4 +56,3 @@ Rose had an idea.
 
 After a long discussion of who should take what, they finally split up again to prepare lunch, eat breakfast and do the morning jobs.
 
-Rose and Johny were rushing about preparing their half of lunch. Sam was doing everyone's beds and cleaning, while Elsie was getting in the way (quite literally) and tripping people over.

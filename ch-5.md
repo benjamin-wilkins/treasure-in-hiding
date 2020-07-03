@@ -1,6 +1,6 @@
 # Messages and Marshmallow
 
-"Oh, you're so lucky," said Jessica. "I wish we could come to camp with you."
+"Oh, you're so lucky," said Jessica at lunch. "I wish we could come to camp with you."
 
 "Well, you do have horses," pointed out Sam.
 
@@ -18,7 +18,7 @@ Everyone laughed.
 
 "What do you mean?"
 
-"Well, not so long ago, Mother and Father asked if we wanted anyone else to come with us, but no-one wanted to."
+"Well, not so long ago, Mother and Father asked if we wanted to invite anyone else to come to the land, but no-one wanted to come with us."
 
 "Let's hope they agree," said Sam.
 
@@ -30,7 +30,7 @@ Soon they had finished lunch, and Rose, Max, Jessica and Johny started talking a
 
 "You need to stop arguing now," said Elsie. "It's 4 o'clock already!"
 
-"Yes, it really is," said Rose. "We need to get back to camp!"
+"Yes, it really is!" said Rose. "We need to get back to camp!"
 
 "Goodbye! Goodbye! Goodbye!" came the children's voices.
 
@@ -40,7 +40,7 @@ Soon they had finished lunch, and Rose, Max, Jessica and Johny started talking a
 
 Once again, everyone laughed.
 
-When they got back, Sam found a raft in the river. It was an extremely makeshift raft, made out of an old plastic drink bottle, but there was a message inside.
+When they got back, Sam found a small raft in the river. It was an extremely makeshift raft, made out of an old plastic drink bottle, but there was a message inside.
 
 Each of them read it.
 
@@ -62,9 +62,9 @@ They drafted a reply.
 
 Well done on getting back when the stick did!
 
-Hard last night, but first night always hardest.
+It was hard last night, but the first night is always hardest.
 
-Met Max and Jessica from next door - could come?
+We Met Max and Jessica from next door - could they come?
 
 Goodbye,
 

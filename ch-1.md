@@ -2,7 +2,7 @@
 
 "Happy Birthday to you!"
 
-It was the twins' birthday. Johny and Rose were turning 12 and the whole family was there to celebrate. The number of aunts and uncles there were to be when everyone came to the family gathering was huge. Opening their presents, many shared, they found a flint and steel, a penknife each, *Swallowdale*, the sequel to *Swallows and Amazons*, an adventure story they liked, a sketchbook, and one last, bigger present.
+It was the twins' birthday. Johny and Rose were turning 12 and the whole family was there to celebrate. The number of aunts and uncles there were when everyone came to the family gatherings was huge. Opening their presents, many shared, they found a flint and steel, a penknife each, *Swallowdale*, the sequel to *Swallows and Amazons*, an adventure story they liked, a sketchbook, and one last, bigger present.
 
 "For Johny, Rose, Sam and Elsie," Rose read. "What is it?"
 

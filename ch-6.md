@@ -24,7 +24,7 @@ Jessie and Max were not in the horse paddock. However, an owl hoot was not nessa
 
 "We'll be back in half an hour," said Max. "We need to pack,"
 
-Half an hour later, Jessie and Max arrived, with a 7 or 8 bags, all full.
+Half an hour later, Jessie and Max arrived, with 7 or 8 bags, all full.
 
 "Our parents said we might as well take some food," Jessie explained.
 
@@ -34,11 +34,11 @@ Rose led the way.
 
 "We'll need to extend it a bit," she said, "but apart from that it's great!"
 
-Throughout the rest of the morning, everyone was busy. Sam, Elsie and Max were extending the sleeping area to fill the full ditch, while Rose, John and Jessie were constructing another wigwam, but with 2 entrances, one to connect it to the other wigwam.
+Throughout the rest of the morning, everyone was busy. Sam, Elsie and Max were extending the sleeping area to fill the full ditch, while Rose, John and Jessie were constructing another wigwam, but with 2 entrances, one of them to connect it to the other wigwam.
 
 They finished just before lunch.
 
-It was then that Sam suggested, "Shouldn't we have a lookout post?"
+It was then that Sam suggested, "Shouldn't we have a lookout post in that tree?"
 
 So, straight after lunch, everyone was back at work again, hauling branches up trees, making rope ladders and hammering together the lookout.
 
@@ -70,6 +70,6 @@ The parents arrived, and the children rushed out of the den.
 
 The adults all agreed that it was great, but that "any more children would make it take up too much space." They were just leaving with a chorus of goodbyes coming from them and their children, but Max and Jessie's mother remembered something.
 
-"We'd better give you this," she said giving them a basket, full of food, which no-one had noticed before. "Goodbye!"
+"We'd better give you this," she said giving them another basket, full of food, which no-one had noticed before. "Goodbye!"
 
 The children waved back, only stopping long after the adults had left. They ate dinner and went to bed. Everyone, even Max and Jessie, who had not slept in a den before, fell asleep quickly.

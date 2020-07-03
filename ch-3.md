@@ -24,7 +24,7 @@ Soon they were at the camp, and ate a meal of corned beef on crackers, followed 
 
 "Yes," said Sam, "as well as to create a pool. It's great!"
 
-"Yes, it is. Now we'd better be going now, or else everyone will be wondering where we are." said their father.
+"Yes, it is. Now, I'm afraid we'd better be going, or else everyone will be wondering where we are," said their father.
 
 "Goodbye!" said mother and father together.
 
