@@ -20,7 +20,7 @@ Making the den was difficult but progress was made fast. Logs were laid inside a
 
 "Hey!"
 
-"Now, who wants to go exploring?" questioned Johny. Instantly 2 hands shot up. "Well then, Elsie and Sam, let's go!"
+"Now, who wants to go exploring?" questioned Johny. Instantly two hands shot up. "Well then, Elsie and Sam, let's go!"
 
 "So long as your back in half an hour!" Rose shouted after the others, who had already left.
 
@@ -28,11 +28,11 @@ Rose spent a happy half hour checking that the den was safe, before a loud crash
 
 "I can tell you have something exiting to say," she remarked.
 
-"There's 2 rivers!" the other 3 said.
+"There's two rivers!" the other three said.
 
-"Or at least, 1 river flowing to the house and the other back," Johny continued. "We were silly not to think that the river had to come from somewhere before, and we can use them to send messages in boats and get messages back from the house!"
+"Or at least, one river flowing to the house and the other back," Johny continued. "We were silly not to think that the river had to come from somewhere before, and we can use them to send messages in boats and get messages back from the house!"
 
-"If there's 2 rivers, we should get our water from the one leading to the house," Rose said. "Or at least, that's what mother would say."
+"If there's two rivers, we should get our water from the one leading to the house," Rose said. "Or at least, that's what mother would say."
 
 "Building a dam will make sure that any messages don't end up too downriver," Sam thought aloud, "so that if we weren't there the message wouldn't get lost."
 

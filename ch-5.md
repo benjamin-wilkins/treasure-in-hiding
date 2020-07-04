@@ -28,7 +28,7 @@ Everyone laughed.
 
 Soon they had finished lunch, and Rose, Max, Jessica and Johny started talking about cooking techniques, which soon led to a debate over whether you should use the claw or the bridge. They only stopped when they noticed the time.
 
-"You need to stop arguing now," said Elsie. "It's 4 o'clock already!"
+"You need to stop arguing now," said Elsie. "It's four o'clock already!"
 
 "Yes, it really is!" said Rose. "We need to get back to camp!"
 

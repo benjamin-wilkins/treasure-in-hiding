@@ -1,6 +1,6 @@
 # Chapter 3 - The Visitors
 
-Suddenly 2 people appeared through the trees.
+Suddenly two people appeared through the trees.
 
 "Mum! Dad!" shouted Elsie.
 

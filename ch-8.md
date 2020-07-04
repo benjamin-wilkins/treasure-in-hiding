@@ -46,7 +46,7 @@ Everyone laughed.
 
 "It's a double half hitch, not a whole hitch," laughed Rose, "but you're not the first one!"
 
-"It means 2 of something called a half hitch," said Max. "However, I entirely agree with you that it's a silly name."
+"It means two of something called a half hitch," said Max. "However, I entirely agree with you that it's a silly name."
 
 It wasn't long before they had finished their raft and were getting into their swimming clothes in case they fell in.
 
@@ -56,11 +56,11 @@ It wasn't long before they had finished their raft and were getting into their s
 
 Everyone put everything inside the small bags, which they then put inside their backpacks.
 
-"Ready? 3, 2, 1, Push!" shouted Johny, while they all heaved the heavy raft into the water and got on. Soon they were moving slowly along the river.
+"Ready? Three, two, one, Push!" shouted Johny, while they all heaved the heavy raft into the water and got on. Soon they were moving slowly along the river.
 
 "Stop!" whispered Elsie, holding onto a tree and pulling the raft towards the bank where the current was weakest. "They're there!"
 
-And sure enough, 2 people were talking in the same voices that Elsie had heard on the previous night.
+And sure enough, two people were talking in the same voices that Elsie had heard on the previous night.
 
 "They definitely said something about treasure," whispered Rose. "Now, push off- we don't want to get caught!"
 

@@ -24,7 +24,7 @@ Jessie and Max were not in the horse paddock. However, an owl hoot was not nessa
 
 "We'll be back in half an hour," said Max. "We need to pack,"
 
-Half an hour later, Jessie and Max arrived, with 7 or 8 bags, all full.
+Half an hour later, Jessie and Max arrived, with seven or eight bags, all full.
 
 "Our parents said we might as well take some food," Jessie explained.
 
@@ -34,7 +34,7 @@ Rose led the way.
 
 "We'll need to extend it a bit," she said, "but apart from that it's great!"
 
-Throughout the rest of the morning, everyone was busy. Sam, Elsie and Max were extending the sleeping area to fill the full ditch, while Rose, John and Jessie were constructing another wigwam, but with 2 entrances, one of them to connect it to the other wigwam.
+Throughout the rest of the morning, everyone was busy. Sam, Elsie and Max were extending the sleeping area to fill the full ditch, while Rose, John and Jessie were constructing another wigwam, but with two entrances, one of them to connect it to the other wigwam.
 
 They finished just before lunch.
 

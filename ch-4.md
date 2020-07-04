@@ -28,9 +28,9 @@ The next morning, Rose and Johny woke up to find Sam and Elsie gone.
 
 Suddenly, the others ran into the den. Rose gave them a stern telling off.
 
-"But it was only 5 minutes!"
+"But it was only five minutes!"
 
-"5 minutes is a long time of worrying where you two have gone off too."
+"Five minutes is a long time of worrying where you two have gone off too."
 
 "But we found some horses!"
 
@@ -42,13 +42,13 @@ Suddenly, the others ran into the den. Rose gave them a stern telling off.
 
 Across the river leading down to the house there was a fence. Behind the fence were some horses.
 
-"I think I know who's horses they are," said Johny. "Remember when father said that the people next door kept horses here? Well, we've found where they're kept."
+"I think I know who's horses they are," said Johny. "Remember when father said that the people next door kept horses? Well, we've found where they're kept."
 
 Soon the horses went away to the other side of the field.
 
 "Look! There's someone there!"
 
-And there was. In fact, there were 2 people. They came up and said hello. It turned out that they were called Max and Jessie, and that they lived in the house next door.
+And there was. In fact, there were two people. They came up and said hello. It turned out that they were called Max and Jessie, and that they lived in the house next door.
 
 Rose had an idea.
 
