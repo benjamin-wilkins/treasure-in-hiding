@@ -18,7 +18,7 @@
         color:#FFFFFF;
         border-color: #157878;
       }
-      .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+      .btn-primary:hover, .btn-primary:focus, .btn-primary:active, btn-primary.active {
         background-color: #268989 !important;
         color:#FFFFFF;
         border-color: #157878 !important;
@@ -42,15 +42,15 @@
         </div>
       </p>
       <div class="collapse" id="chapters">
-        <a href="/treasure-in-hiding/ch-1" class="btn btn-primary">1</a>
-        <a href="/treasure-in-hiding/ch-2" class="btn btn-primary">2</a>
-        <a href="/treasure-in-hiding/ch-3" class="btn btn-primary">3</a>
-        <a href="/treasure-in-hiding/ch-4" class="btn btn-primary">4</a>
-        <a href="/treasure-in-hiding/ch-5" class="btn btn-primary">5</a>
-        <a href="/treasure-in-hiding/ch-6" class="btn btn-primary">6</a>
-        <a href="/treasure-in-hiding/ch-7" class="btn btn-primary">7</a>
-        <a href="/treasure-in-hiding/ch-8" class="btn btn-primary">8</a>
-        <a href="/treasure-in-hiding/ch-9" class="btn btn-primary">9</a>
+        <a href="/treasure-in-hiding/ch-1" class="btn btn-primary" id="ch-1">1</a>
+        <a href="/treasure-in-hiding/ch-2" class="btn btn-primary" id="ch-2">2</a>
+        <a href="/treasure-in-hiding/ch-3" class="btn btn-primary" id="ch-3">3</a>
+        <a href="/treasure-in-hiding/ch-4" class="btn btn-primary" id="ch-4">4</a>
+        <a href="/treasure-in-hiding/ch-5" class="btn btn-primary" id="ch-5">5</a>
+        <a href="/treasure-in-hiding/ch-6" class="btn btn-primary" id="ch-6">6</a>
+        <a href="/treasure-in-hiding/ch-7" class="btn btn-primary" id="ch-7">7</a>
+        <a href="/treasure-in-hiding/ch-8" class="btn btn-primary" id="ch-8">8</a>
+        <a href="/treasure-in-hiding/ch-9" class="btn btn-primary" id="ch-9">9</a>
       </div>
     </div>
     
@@ -62,5 +62,15 @@
     <!-- jQuery first, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <script>
+      location = window.location.pathname;
+      
+      if (location != "/treasure-in-hiding") {
+        location = location.split("/");
+        chapter = location[location.length - 1];
+        chapterbtn = document.getElementById(chapter);
+        chapterbtn.classList.add("active");
+      }
+    </script>
   </body>
 </html>
