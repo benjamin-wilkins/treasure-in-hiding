@@ -63,13 +63,6 @@
       {{ content }}
     </div>
     
-    <div class="fixed-bottom text-center">
-      <div class="btn-group" role="group">
-        <a id="previous" class="btn btn-primary" style="border-radius: 30px 0px 0px 0px">Previous</a>
-        <a id="next" class="btn btn-primary" style="border-radius: 0px 30px 0px 0px">Next</a>
-      </div>
-    </div>
-    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -80,21 +73,6 @@
       chapter = path[path.length - 1];
       chapterbtn = document.getElementById(chapter);
       chapterbtn.classList.add("active");
-      chapterno = chapter.split("-");
-      chapterno = chapterno[path.length - 1];
-      next = document.getElementById("next");
-      previous = document.getElementByid("previous");
-      if (chapterno == "1") {
-        previous.classList.add("disabled");
-        next.href = "/treasure-in-hiding/ch-2";
-      } else if (chapterno == "9") {
-        next.classList.add("disabled");
-        previous.href = "/treasure-in-hiding/ch-8";
-      } else {
-        chapterno = Number(chapterno)
-        previous.href = "/treasure-in-hiding/" + String(chapterno - 1);
-        next.href = "/treasure-in-hiding/" + String(chapterno + 1);
-      }
     </script>
   </body>
 </html>
