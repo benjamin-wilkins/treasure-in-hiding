@@ -35,7 +35,6 @@ Changing the topic, Rose said, "Well, whether there's treasure or not, one thing
 In the next ten minutes, they made a list of what they would need:
 
 ```
-
 SUPPLIES
 
  - KETTLE
@@ -73,5 +72,4 @@ SUPPLIES
  - ROPE
 
  - TARPAULINS
-
 ```
