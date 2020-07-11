@@ -10,3 +10,4 @@
 1. [Journey Upriver](/treasure-in-hiding/ch-8)
 1. [The Map](/treasure-in-hiding/ch-9)
 1. [Where's the Treasure?](/treasure-in-hiding/ch-10)
+1. [Digging](/treasure-in-hiding/ch-11)
