@@ -11,3 +11,4 @@
 1. [The Map](/treasure-in-hiding/ch-9)
 1. [Where's the Treasure?](/treasure-in-hiding/ch-10)
 1. [Digging](/treasure-in-hiding/ch-11)
+1. [A Final Banquet](/treasure-in-hiding/ch-11)
