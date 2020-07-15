@@ -1,10 +1,10 @@
 # Chapter 2 - To the Land
 
-Going to the land was a hard thing - not only was there the fact that there were many things to trip over and hurt yourself on, but also, as the land was covered in trees, there was no map that could show where you could go and so it was easy to get lost. However, by following the stream that led from the house, they managed to not get lose their way.
+Going to the land was a hard thing - not only was there the fact that there were many things to trip over and hurt yourself on, but also, as the land was covered in trees, there was no map that could show where you could go and so it was easy to get lost. However, by following the stream that led from the house, they managed to not lose their way.
 
 Soon later, Elsie screamed, "Help!"
 
-She had tripped over and fell in a fairly deep ditch - but Johny and Sam had soon got her out. Rose was deep in thought.
+She had tripped over and fallen into a fairly deep ditch - but Johny and Sam had soon got her out. Rose was deep in thought.
 
 "How about we use this ditch to make our den?" she asked, after a short silence.
 
@@ -26,7 +26,7 @@ Making the den was difficult but progress was made fast. Logs were laid inside a
 
 Rose spent a happy half hour checking that the den was safe, before a loud crash stopped her. Outside the den were Elsie and Sam, almost on top of each other.
 
-"I can tell you have something exiting to say," she remarked.
+"I can tell you have something exciting to say," she remarked.
 
 "There's two rivers!" the other three said.
 
