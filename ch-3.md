@@ -18,7 +18,7 @@ Soon they were at the camp, and ate a meal of corned beef on crackers, followed 
 
 "The stream goes from here to the house and back," said Rose.
 
-"And we can send messages by boat!" said Elsie, unable to contain her exitment.
+"And we can send messages by boat!" said Elsie, unable to contain her excitement.
 
 "And that's what the dam is for!" said their father.
 

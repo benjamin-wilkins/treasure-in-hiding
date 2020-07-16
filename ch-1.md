@@ -2,7 +2,7 @@
 
 "Happy Birthday to you!"
 
-It was the twins' birthday. Johny and Rose were turning twelve and the whole family was there to celebrate. The number of aunts and uncles there were when everyone came to the family gatherings was huge. Opening their presents, many shared, they found a flint and steel, a penknife each, *Swallowdale*, the sequel to *Swallows and Amazons*, an adventure story they liked, a sketchbook, and one last, bigger present.
+It was the twins' birthday. Johny and Rose were turning twelve and the whole family was there to celebrate. The number of aunts and uncles there were when everyone came to the family gatherings was huge. Opening their presents, many shared, they found a flint and steel, a penknife each, *Swallowdale* (the sequel to *Swallows and Amazons*, an adventure story they liked), a sketchbook, and one last, bigger present.
 
 "For Johny, Rose, Sam and Elsie," Rose read. "What is it?"
 
@@ -12,7 +12,7 @@ Sam and Elsie were Johny and Roses' younger brother and sister.
 
 "If you'll stop being so impatient."
 
-Inside was an empty notebook labled '`EXPEDITION LOG`', a pair of binoculars, a long length of rope and a couple of heavy duty tarpaulins. No-none spoke for a moment. Elsie, aged six, was the first to break the silence.
+Inside was an empty notebook labled '`EXPEDITION LOG`', a pair of binoculars, a long length of rope and a couple of heavy duty tarpaulins. No-one spoke for a moment. Elsie, aged six, was the first to break the silence.
 
 "But what do we do with it?" she asked, clearly puzzled.
 
@@ -26,7 +26,7 @@ Their Mother answered, "We've been thinking of letting you go onto the land to c
 
 "It's a family myth," said Aunt Sue. "According to it, your great-great-great-grandparents buried their treasure somewhere at the land."
 
-"Not that it is necarsarily true," remarked the children's mother.
+"Not that it is necessarily true," remarked the children's mother.
 
 Changing the topic, Rose said, "Well, whether there's treasure or not, one things certain. That we need to pack."
 
