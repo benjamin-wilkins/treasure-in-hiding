@@ -14,7 +14,7 @@ So, everyone was awake, watching for the first part of the night. Elsie soon fel
 
 No one spoke for a while. It was so quiet that soon Rose thought the others, who were lying down, were asleep.
 
-"Did you hear that," Rose asked, mostly to herself.
+"Did you hear that?" Rose asked, mostly to herself.
 
 "What?" said Sam.
 
@@ -36,13 +36,13 @@ Suddenly, the others ran into the den. Rose gave them a stern telling off.
 
 "Really?" asked Johny.
 
-"Yes! Just across the stream!" said Elsie, once again unable to contain her exitment.
+"Yes! Just across the stream!" said Elsie, once again unable to contain her excitement.
 
 "Was that what we heard last night?" wondered Rose. "Well, it can do no harm to go and see."
 
 Across the river leading down to the house there was a fence. Behind the fence were some horses.
 
-"I think I know who's horses they are," said Johny. "Remember when father said that the people next door kept horses? Well, we've found where they're kept."
+"I think I know whose horses they are," said Johny. "Remember when father said that the people next door kept horses? Well, we've found where they're kept."
 
 Soon the horses went away to the other side of the field.
 
