@@ -44,7 +44,7 @@ So, straight after lunch, everyone was back at work again, hauling branches up t
 
 "It's a good job there's a bit of extra space where no-one's sleeping - we now have a way straight up into the lookout," said Max.
 
-"We could put a some logs round the tree to create a passageway going up," suggested Jessie, "with a door in the side so we can get in and out without going into the den."
+"We could put some logs round the tree to create a passageway going up," suggested Jessie, "with a door in the side so we can get in and out without going into the den."
 
 Everyone agreed to this idea and before long there was a small hut at the top of the large tree.
 
