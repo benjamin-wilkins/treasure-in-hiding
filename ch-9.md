@@ -12,7 +12,7 @@ The others were in the bedrooms in a moment. They all puzzled round a sheet of p
 
 It was a mysterious piece of paper indeed. It had circles and lines, and had writing on it, though no-one could read it. Something attracted Rose's attention.
 
-"Look in the bottom left! That's our great-great-great grandfather's signiture!" she exclaimed. "I saw it once on a family tree once - where the family tree is now I don't know - but that's the same signiture!"
+"Look in the bottom left! That's our great-great-great grandfather's signature!" she exclaimed. "I saw it once on a family tree once - where the family tree is now I don't know - but that's the same signature!"
 
 Sam was looking at another thing.
 
